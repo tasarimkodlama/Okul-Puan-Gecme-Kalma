@@ -1,0 +1,10 @@
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\bin\Debug\GecmeKalmaUygulamasi.exe.config
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\bin\Debug\GecmeKalmaUygulamasi.exe
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\bin\Debug\GecmeKalmaUygulamasi.pdb
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\obj\Debug\GecmeKalmaUygulamasi.csproj.AssemblyReference.cache
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\obj\Debug\GecmeKalmaUygulamasi.Form1.resources
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\obj\Debug\GecmeKalmaUygulamasi.Properties.Resources.resources
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\obj\Debug\GecmeKalmaUygulamasi.csproj.GenerateResource.cache
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\obj\Debug\GecmeKalmaUygulamasi.csproj.CoreCompileInputs.cache
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\obj\Debug\GecmeKalmaUygulamasi.exe
+C:\YEDEK\10A\GecmeKalmaUygulamasi\GecmeKalmaUygulamasi\obj\Debug\GecmeKalmaUygulamasi.pdb
